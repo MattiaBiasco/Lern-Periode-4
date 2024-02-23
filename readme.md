@@ -7,11 +7,11 @@
 1. Meine Note ist ungenügend.
 2. Ich habe mir vorgenommen klarere Arbeitspackete zu machen. Das ist mir in der letzten Lernperiode gut gelungen. Doch die Planung sollte ich noch verbessern.
 3. Ich möchte lernen wie man eine Webseite programmiert. 
-4. Ich möchte etwas kreatives programmiern. Darum möchte ich eine Webseite programmierne. Dabei werde ich HTML und CSS verwenden.
+4. Ich möchte eine Webseite programmierne. Dabei werde ich HTML und CSS verwenden. Auf Youtube habe ich ein Tutorial gefunden, dass auch für Anfänger, die noch nie mit HTML oder CSS gearbeitet haben, geeignet ist. Der Link ist hier: https://www.youtube.com/watch?v=v_z2kgJwPEU . 
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich
 
 ## 27.2.2024
 
