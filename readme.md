@@ -15,8 +15,8 @@
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
+- [ ] Notwendige Programme herunterladen
+- [ ] 
 - [ ] Viertes AP
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
