@@ -6,8 +6,8 @@
 
 1. Meine Note ist ungenügend.
 2. Ich habe mir vorgenommen klarere Arbeitspackete zu machen. Das ist mir in der letzten Lernperiode gut gelungen. Doch die Planung sollte ich noch verbessern.
-3. Werde ich im Verlauf von diesem Nachmittag noch herausfinden. 
-4. Werde ich im Verlauf von diesem Nachmittag noch herausfinden.
+3. Ich möchte lernen wie man eine Webseite programmiert. 
+4. Ich möchte etwas kreatives programmiern. Darum möchte ich eine Webseite programmierne. Dabei werde ich HTML und CSS verwenden.
 
 ## 20.2.2024
 
