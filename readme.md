@@ -5,9 +5,9 @@
 ## Grob-Planung
 
 1. Meine Note ist ungenügend.
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+2. Ich habe mir vorgenommen klarere Arbeitspackete zu machen. Das ist mir in der letzten Lernperiode gut gelungen.
+3. Ich möchte keine neue Programmiersprache lernen, da C# schon genug schwer für mich ist. Da ich im Sommer die Schule verlassen werde, ist meine Motivation etwas neues zu lernen eher klein, da ich es im späteren Leben wahrscheinlich nicht mehr brauche.
+4. Ich werde ein Projekt mit C# oder SQL machen. Was genau, werde ich im Verlauf von diesem Nachmittag noch herausfinden.
 
 ## 20.2.2024
 
