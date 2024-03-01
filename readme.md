@@ -16,15 +16,15 @@ Heute habe ich mir überlegt, wie die Lernperiode 3 ergangen ist und was ich in 
 ## 27.2.2024
 
 - [x] Notwendige Programme herunterladen
-- [ ] Projektordner anlegen und Standartaufbau eine Webseite hinzufügen
-- [ ] Wichtigste Informationen einfügen (z.B. Titel,..) und Test Link einfügen
+- [x] Projektordner anlegen und Standartaufbau eine Webseite hinzufügen
+- [x] Wichtigste Informationen einfügen (z.B. Titel,..) und Test Link einfügen
 - [ ] Aufträge fertigstellen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
 | 2               | Visual Studio Code offen | Code eingeben|Test-Webseite geht auf |  True        |
-| 3              | Link im Code eingefügt|auf den Link klicken|Link wird geöffnet|          |
+| 3              | Link im Code eingefügt|auf den Link klicken|Link wird geöffnet|     True     |
 | 4               |                        |               |               |           |
 
 ✍️ Heute habe ich... (50-100 Wörter)
