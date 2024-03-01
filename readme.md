@@ -18,7 +18,7 @@ Heute habe ich mir überlegt, wie die Lernperiode 3 ergangen ist und was ich in 
 - [x] Notwendige Programme herunterladen
 - [x] Projektordner anlegen und Standartaufbau eine Webseite hinzufügen
 - [x] Wichtigste Informationen einfügen (z.B. Titel,..) und Test Link einfügen
-- [ ] Aufträge fertigstellen
+- [x] Aufträge fertigstellen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -27,9 +27,44 @@ Heute habe ich mir überlegt, wie die Lernperiode 3 ergangen ist und was ich in 
 | 3              | Link im Code eingefügt|auf den Link klicken|Link wird geöffnet|     True     |
 | 4               |                        |               |               |           |
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die notwendigen Programme zum Erstellen einer Webseite heruntergeladen. Danach habe ich einen Projektordner angelegt und eine kleine Test-Website erstellt. Danach habe ich zum Testen ein Titel und ein Link eingefügt. Danach habe ich angefangen, die richtige Website zu erstellen. Ich habe ein Bild eingefügt, was nicht geklappt hat. Am Schluss habe ich noch die Dokumentation für das Modul 187 gemacht. [63]
+![image](https://github.com/MattiaBiasco/Lern-Periode-4/assets/142606014/27e53fd6-a9e0-4ad6-9e09-d98099158067)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+
+## 7.3.2024
+
+-[ ] Bild in die Website einfügen und Grösse einstellen
+-[ ] Buttons hinzufügen
+-[ ] Logo designen
+-[ ] Aufträge fertigstellen
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| 2               | Button hinzugefügt   |auf Button drücken|Link wird geöffnet |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+Heute....
+
+## 14.3.2024
+
+-[ ] 
+-[ ]
+-[ ]
+-[ ] Aufträge fertigstellen
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+Heute....
+
+
 
 
 
