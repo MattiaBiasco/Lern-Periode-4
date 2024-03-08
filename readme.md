@@ -28,6 +28,7 @@ Heute habe ich mir überlegt, wie die Lernperiode 3 ergangen ist und was ich in 
 | 4               |                        |               |               |           |
 
 Heute habe ich die notwendigen Programme zum Erstellen einer Webseite heruntergeladen. Danach habe ich einen Projektordner angelegt und eine kleine Test-Website erstellt. Danach habe ich zum Testen ein Titel und ein Link eingefügt. Danach habe ich angefangen, die richtige Website zu erstellen. Ich habe ein Bild eingefügt, was nicht geklappt hat. Am Schluss habe ich noch die Dokumentation für das Modul 187 gemacht. [63]
+
 ![image](https://github.com/MattiaBiasco/Lern-Periode-4/assets/142606014/27e53fd6-a9e0-4ad6-9e09-d98099158067)
 
 
@@ -38,6 +39,7 @@ Heute habe ich die notwendigen Programme zum Erstellen einer Webseite herunterge
 -[ ] Buttons hinzufügen
 -[ ] Logo designen
 -[ ] Aufträge fertigstellen
+
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -50,9 +52,9 @@ Heute....
 
 ## 14.3.2024
 
--[ ] 
--[ ]
--[ ]
+-[ ]... 
+-[ ]...
+-[ ]...
 -[ ] Aufträge fertigstellen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
