@@ -48,19 +48,19 @@ Heute habe ich die notwendigen Programme zum Erstellen einer Webseite herunterge
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-Heute....
+Heute konnte ich leider nicht viel an meiner Website arbeiten. Ich habe es einfach nicht hingekriegt ein Bild in die Website einzufügen. Ich habe verschiedene Bilder ausprobiert, aber es hat nicht geklappt. Also habe ich die Zeit dafür genutzt, noch Auftrage fertig zu stellen. Für das Modul 187 habe ich die Dokumentation noch fertig gemacht. [55]
 
 ## 14.3.2024
 
--[ ]... 
--[ ]...
--[ ]...
+-[ ] Bild in die Website einfügen und Grösse einstellen 
+-[ ] Buttons hinzufügen
+-[ ] Logo designen
 -[ ] Aufträge fertigstellen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
-| 2               |                      |                |                |          |
+| 2               | Button hinzugefügt   |auf Button drücken|Link wird geöffnet|          |
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
