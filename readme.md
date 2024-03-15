@@ -7,7 +7,8 @@
 1. Meine Note ist ungenügend.
 2. Ich habe mir vorgenommen klarere Arbeitspackete zu machen. Das ist mir in der letzten Lernperiode gut gelungen. Doch die Planung sollte ich noch verbessern.
 3. Ich möchte lernen wie man eine Webseite programmiert. 
-4. Ich möchte eine Webseite programmierne. Dabei werde ich HTML und CSS verwenden. Auf Youtube habe ich ein Tutorial gefunden, dass auch für Anfänger, die noch nie mit HTML oder CSS gearbeitet haben, geeignet ist. Der Link ist hier: https://www.youtube.com/watch?v=v_z2kgJwPEU . Ausserdem werde ich jedes mal ein Arbeitspacket vewenden, um Aufträge fertig zu stellen. 
+4. Ich möchte eine Webseite programmierne. Dabei werde ich HTML und CSS verwenden. Auf Youtube habe ich ein Tutorial gefunden, dass auch für Anfänger, die noch nie mit HTML oder CSS gearbeitet haben, geeignet ist. Der Link ist hier: https://www.youtube.com/watch?v=v_z2kgJwPEU . Ich möchte auf meiner Website meine Bilder und Videos, die ich mit meiner Drohne gemacht habe, zeigen.
+Ausserdem werde ich jedes mal ein Arbeitspacket vewenden, um Aufträge fertig zu stellen. 
 
 ## 20.2.2024
 
@@ -50,12 +51,12 @@ Heute habe ich die notwendigen Programme zum Erstellen einer Webseite herunterge
 
 Heute konnte ich leider nicht viel an meiner Website arbeiten. Ich habe es einfach nicht hingekriegt ein Bild in die Website einzufügen. Ich habe verschiedene Bilder ausprobiert, aber es hat nicht geklappt. Also habe ich die Zeit dafür genutzt, noch Auftrage fertig zu stellen. Für das Modul 187 habe ich die Dokumentation noch fertig gemacht. [55]
 
-## 14.3.2024
+## 15.3.2024
 
 -[ ] Bild in die Website einfügen und Grösse einstellen 
--[ ] Buttons hinzufügen
--[ ] Logo designen
--[ ] Aufträge fertigstellen
+-[x] Buttons hinzufügen
+-[x] Logo designen
+-[x] Aufträge fertigstellen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -64,7 +65,7 @@ Heute konnte ich leider nicht viel an meiner Website arbeiten. Ich habe es einfa
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-Heute....
+Heute habe ich das Bild immer noch nicht einfügen können. Also habe ich schon mal die Buttons eingefügt, die dann später zu Instagramm und Tiktok führen. Danach habe ich ein Logo ausgewählt. Dabei habe ich das gleiche genommen wie auf meinem Profilbild in Tiktok und Instagramm. Am Schluss habe ich noch an den Aufträgen weiter gearbeitet. [56]
 
 
 
