@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Villager_Drone</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+
+    
+</head>
+
+<body>
+    <img id="Titelbild" src="Bilder\background.jpg">
+    <div class="container">
+        <a class="menu-link" href="">Tiktok</a>
+        <a class="menu-link" href="">Instagram</a>
+    </div>
+    <h1 class="Titel">Meine Drohnenbilder</h1>
+
+    <div class="Beschreibung">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid excepturi culpa laudantium? Dolore, officiis optio! Dolores, enim omnis. Quae, officia. Suscipit perferendis temporibus fugit a amet cupiditate obcaecati voluptatum commodi.
+    </div>
+</body>
+
+</html>
+
+
+
+
+
+Style:
+
+.container {
+    position: absolute;
+    right: 32px;
+    top: 16px;
+    font-size: 24px;
+}
+
+.menu-link {
+    background-color: white;
+    color: black;
+    border: 2px black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.menu-link:hover {
+    background-color: black;
+  color: white;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+} 
+
+#Titelbild {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+body {
+    margin: 0;
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.Titel {
+    position: absolute;
+    left: 600px;
+    top: 150px;
+    color: white;
+    font-size: 80;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.Beschreibung {
+    height: 500px
+    padding; padding: 30px 100px;
+
+
+}
