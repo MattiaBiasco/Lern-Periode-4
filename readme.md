@@ -76,4 +76,5 @@ Heute habe ich das Bild immer noch nicht einfügen können. Also habe ich schon 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
 Ich habe eine eigene Websit gemacht, auf der man meine Fotos und Videos, die ich mit einer Drohne gemacht habe, anschauen kann. Oben hat es zwei Buttons mit dennen man auf mein Tiktok oder Instagram Account kommt.
-Für meine Website habe ich mir zuerst ein gutes Tutorial auf Youtube gesucht. Danach habe ich mir die nötige Software heruntergeladen und gestartet. Zuerst habe ich ein Hintergrundbild ausgewählt und ein Titel gemacht. 
+Für meine Website habe ich mir zuerst ein gutes Tutorial auf Youtube gesucht. Danach habe ich mir die nötige Software heruntergeladen und gestartet. Zuerst habe ich ein Hintergrundbild ausgewählt und ein Titel gemacht. Danach habe ich noch ein Text geschrieben und die Buttons verlinkt. Die Bilder habe ich noch nicht eingefügt.
+Für die nächste Lernperiode möchte ich 3 Ap für mein Projekt und 1 Ap für die Aufträge verwenden. [106]
