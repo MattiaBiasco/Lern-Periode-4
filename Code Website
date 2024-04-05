@@ -17,8 +17,8 @@
 <body>
     <img id="Titelbild" src="Bilder\background.jpg">
     <div class="container">
-        <a class="menu-link" href="">Tiktok</a>
-        <a class="menu-link" href="">Instagram</a>
+       <a class="menu-link" href="https://www.tiktok.com/@villager_drone">Tiktok</a>
+       <a class="menu-link" href="https://www.instagram.com/villager_drone/">Instagram</a>
     </div>
     <h1 class="Titel">Meine Drohnenbilder</h1>
 
